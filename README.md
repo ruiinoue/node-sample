@@ -9,3 +9,7 @@ https://github.com/ruiinoue/node-sample/pull/1
 ### Node.js のコア機能について
 
 https://github.com/ruiinoue/node-sample/pull/2
+
+### npm の扱い方について
+
+https://github.com/ruiinoue/node-sample/pull/3
