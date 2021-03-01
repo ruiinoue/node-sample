@@ -17,3 +17,7 @@ https://github.com/ruiinoue/node-sample/pull/3
 ### Node.js + express（サーバーサイド）
 
 https://github.com/ruiinoue/node-sample/pull/4
+
+### Node.js + express（クライアントサイド）
+
+https://github.com/ruiinoue/node-sample/pull/5
