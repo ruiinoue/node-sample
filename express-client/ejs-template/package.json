@@ -1,0 +1,15 @@
+{
+  "name": "ejs-template",
+  "version": "1.0.0",
+  "description": "- 開始タグ   スクリプトタグ：<%   出力タグ：<%=   出力タグ（アンエスケープ）：<%-   コメント：<%# - 終了タグ   終端タグ：%>   終端タグ：-%> - その他   エスケープ：<%%",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rui Inoue",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
