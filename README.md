@@ -21,3 +21,7 @@ https://github.com/ruiinoue/node-sample/pull/4
 ### Node.js + express（クライアントサイド）
 
 https://github.com/ruiinoue/node-sample/pull/5
+
+## リクエストとレスポンスの情報
+
+https://github.com/ruiinoue/node-sample/pull/6
